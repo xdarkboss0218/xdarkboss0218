@@ -1,10 +1,10 @@
 # 💫 About Me
-- 🔭 I’m currently working on Cybersecurity projects, such as vulnerability analysis tools.
-- 👯 I’m looking to collaborate on Open source projects related to cybersecurity and online privacy.
-- 🤝 I’m looking for help with Improve my programming skills and learn more about safe development.
-- 🌱 I’m currently learning Python and pentesting techniques. Always looking for new ways to protect systems!
-- 💬 Ask me about Trends in cybersecurity, learning resources or how to get started in this field.
-- ⚡ Fun fact I'm a big fan of video games and I love to analyze their security. Sometimes I find interesting things!
+- 🔭 I’m currently working on **Cybersecurity projects, such as vulnerability analysis tools.**
+- 👯 I’m looking to collaborate on **Open source projects related to cybersecurity and online privacy.**
+- 🤝 I’m looking for help with **Improve my programming skills and learn more about safe development.**
+- 🌱 I’m currently learning **Python and pentesting techniques. Always looking for new ways to protect systems!**
+- 💬 Ask me about **Trends in cybersecurity, learning resources or how to get started in this field.**
+- ⚡ Fun fact **I'm a big fan of video games and I love to analyze their security. Sometimes I find interesting things!**
 
 # 💻 Tech Stack
 * Languages:
